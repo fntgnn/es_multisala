@@ -8,7 +8,7 @@ Demo: http://fntgnn-multisala.herokuapp.com/
 * Installare i moduli con `npm install`
 * Per fare eventuali modifiche eseguire il comando `npm run client` per avere un reload automatico dei moduli e del bundle
 * `npm start` per far partire l'applicazione express
-* Aprire la pagina `index.html` con un browser
+* Aprire http://localhost:3000
 
 ### Tecnologie utilizzate
 Il codice è stato scritto interamente in Javascript.
