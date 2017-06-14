@@ -21,12 +21,12 @@ Ho utilizzato Mithril.js perchè è un framework semplice, veloce e leggero.
 
 ### Struttura dell'applicazione
 #### Applicazione
-L'applicazione è stata divisa per query:
+L'applicazione è divisa per query:
 1. totale incassato per singola proiezione
 1. totale incassato per sala in un determinato periodo di giorni
 1. totale incassato per ogni Film/Spettacolo
 
-Nella prima query sono presenti i link per visualizzare, per ogni proiezione, i posti disponibili (in verde) e i posti occupati (in rosso):
+Nella prima query sono presenti i link per visualizzare in ogni proiezione i posti disponibili (in verde) e i posti occupati (in rosso):
 >Per ogni sala deve essere possibile stabilire precisamente quali siano i posti occupati  e quali siano quelli ancora liberi, in modo da poter evitare di assegnare, all'interno della stessa proiezione, lo stesso posto più di una volta. Il vincolo deve essere forte.
 
 
