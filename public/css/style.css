@@ -1,0 +1,16 @@
+.posti{
+  width: 100%;
+  border: 1px solid black;
+}
+
+.occupato{
+  height: 50px;
+  text-align: center;
+  background-color: tomato;
+}
+
+.libero{
+  height: 50px;
+  text-align: center;
+  background-color: lightgreen;
+}
